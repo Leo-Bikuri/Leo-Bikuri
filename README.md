@@ -1,4 +1,4 @@
-# Hi there, I'm Bikuri, Leo Bikuri 👋 
+# Hello there, Leo Bikuri 👋 
 
 
 ## I'm a Student, Student, Student, and Developer
