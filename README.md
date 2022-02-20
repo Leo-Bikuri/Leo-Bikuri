@@ -5,7 +5,7 @@
 
 
 ### Stats:
-[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Bikuri&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Bikuri&theme=panda&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
