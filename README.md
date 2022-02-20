@@ -6,9 +6,9 @@
 
 ### Github stats:
 <div align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=Leo-Bikuri&theme=moltack&show_icons=true'/>
-<br />
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Bikuri&langs_count=10&layout=compact&theme=moltack'/>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Bikuri&langs_count=10&layout=compact&theme=moltack'/>
+<br /> 
+  <img src='https://github-readme-stats.vercel.app/api?username=Leo-Bikuri&theme=moltack&show_icons=true&include_all_commits'/>
 <br />
     <img src='https://github-readme-stats.vercel.app/api/wakatime?username=leo_bikuri&theme=moltack'/>
 </div>
