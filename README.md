@@ -10,7 +10,7 @@
 <br />
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Bikuri&langs_count=10&layout=compact&theme=moltack'/>
 <br />
-    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=Leo-Bikuri'/>
+    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=leo_bikuri'/>
 </div>
 
 
