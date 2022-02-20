@@ -6,7 +6,7 @@
 
 ### Github stats:
 [![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Bikuri&theme=moltack&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Bikuri&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Bikuri&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Languages and Tools:
